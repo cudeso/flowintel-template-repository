@@ -1,5 +1,6 @@
 {
     "name": "demo",
     "description": "flowintel-template-repository",
-    "uuid": "393c9227-ec80-4929-9f39-c5e91d637844"
+    "uuid": "393c9227-ec80-4929-9f39-c5e91d637844",
+    "version": 1
 }
