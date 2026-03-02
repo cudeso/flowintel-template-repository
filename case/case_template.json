@@ -1,0 +1,48 @@
+{
+  "clusters": [],
+  "description": "# Title\r\n\r\nDescription of the basic template",
+  "notes": "sddsdsds\n\n",
+  "tags": [
+    "tlp:amber+strict",
+    "enisa:physical-attack=\"sabotage\""
+  ],
+  "tasks_template": [
+    {
+      "clusters": [],
+      "description": "# Collect\r\n\r\nCollect the evidence in time",
+      "notes": [],
+      "subtasks": [
+        {
+          "description": "Go on site"
+        },
+        {
+          "description": "Open the bag"
+        }
+      ],
+      "tags": [
+        "PAP:AMBER"
+      ],
+      "time_required": "1h",
+      "title": "Evidence collection",
+      "urls_tools": [],
+      "uuid": "2dbc79c5-dbe5-4d28-bffe-a9e4ae5ec3cf",
+      "version": 4
+    },
+    {
+      "clusters": [],
+      "description": "# Documentation\r\n\r\nWrite something on SharePoint\r\n\r\n",
+      "notes": [],
+      "subtasks": [],
+      "tags": [],
+      "time_required": "1h",
+      "title": "Update the evidence documentation",
+      "urls_tools": [],
+      "uuid": "b4e2b02a-9ff6-47ec-80d7-6d04f08be92b",
+      "version": 3
+    }
+  ],
+  "time_required": "5h",
+  "title": "Case template",
+  "uuid": "8f01c473-4e07-4d11-b49b-650e6ad8ea33",
+  "version": 2
+}
