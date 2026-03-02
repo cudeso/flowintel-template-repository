@@ -39,6 +39,20 @@
       "urls_tools": [],
       "uuid": "b4e2b02a-9ff6-47ec-80d7-6d04f08be92b",
       "version": 3
+    },
+    {
+      "clusters": [],
+      "description": "# Task in a case template\r\n\r\nDemo\r\n\r\n",
+      "notes": [],
+      "subtasks": [],
+      "tags": [
+        "GrayZone:Beacons=\"Inform\""
+      ],
+      "time_required": null,
+      "title": "Task in a case template not via Task template",
+      "urls_tools": [],
+      "uuid": "d8c2fd2a-a244-42c6-9f16-1580dea55f9f",
+      "version": 1
     }
   ],
   "time_required": "5h",
